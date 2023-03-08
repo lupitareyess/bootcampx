@@ -20,4 +20,4 @@
   -- SELECT * FROM students;
   -- SELECT * FROM cohorts;
 
-  SELECT count(*) FROM students;
+  SELECT * FROM students;
